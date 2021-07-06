@@ -75,3 +75,58 @@ function sum(){
 
 console.log(typeof sum)
 */
+
+//operadores aritméticos
+/*
+adição (+)
+    var sumTwoNumbers = 1+5
+    console.log(sumTwoNumbers)
+subtração (-)
+    var subTwoNumbers = 1-5
+    console.log(subTwoNumbers)
+multiplicação (*)
+    var multTwoNumbers = 1*5
+    console.log(multTwoNumbers)
+divisão (/)
+    var divTwoNumbers = 1/5
+    console.log(devTwoNumbers)
+resto de divisão (%)
+    console.log(1%5)
+incrremento (++)
+    var num = 1
+    console.log(++num)
+decremento (--)
+    var num = 1
+    console.log(--num)
+    num = num - 1
+
+//operadores de atribuição
+
+    (=) atribuição
+
+//atribuição de soma, subtração, multi e divisão
+
+    var x= 1
+    var y =3
+
+    console.log(x+=y)
+    console.log(x-=y)
+    console.log(x*=y)
+    console.log(x/=y)
+    console.log(x%=y)
+
+//operadpres de comparação
+
+    == (comparação de valores)
+    === (comparar valo e tipo)
+    != (diferente de)
+    < ou <= (menor e menor igual)
+    > ou >= (maior e maior igual)
+
+//operadores lógicos
+
+    && (e)
+    || (ou)
+    ! (negação)
+
+*/
