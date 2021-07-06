@@ -1,3 +1,4 @@
+/*
 var myNickname = "Rustuh";
 
 let language = "Javascript";
@@ -6,6 +7,7 @@ const pattern = "ECMAScript";
 
 console.log(myNickname)
 
+*/
 /*exemplo de como usar variaveis*/
 
 /* Pode ser usado (VAR são declarações de escpo global ou escopo de funções )
@@ -167,3 +169,44 @@ decremento (--)
         default:
             console.log("nenhum dos casos acima foi atendidos");
     }
+*/
+
+/*
+
+    //Estruturas de repetição
+
+    //FOR
+    
+    //caso 1
+
+    var colors = ["black", "white", "yellow", "green", "blue"];
+
+    for(var i = 0; i < colors.length; i++) {
+        console.log(colors[i]);
+    }
+
+    //caso 2
+
+    for (var i = 0; i <10; i++){
+        console.log(i);
+    }
+
+
+    //WHILE
+
+    var i = 0;
+
+    while (i < 10){
+        console.log(i);
+        i++;
+    }
+
+    //DO WHILE
+
+    var i = 1;
+
+    do{
+        console.log(i);
+        i++;
+    } while (i < 10);
+*/
