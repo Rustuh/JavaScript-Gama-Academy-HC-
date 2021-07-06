@@ -130,3 +130,40 @@ decremento (--)
     ! (negação)
 
 */
+
+/*
+//Condicionais
+
+    //if, else, else if
+
+    var num = 1;
+    num= 5
+
+    if (num === 1) {
+        console.log("num é igual a 1")
+    } else if (num === 2) {
+        console.log("num é igual a 2")
+    } else {
+        console.log("num é 5")
+    }
+
+    //switch case
+
+    var mes = "fevereiro"
+
+    switch (mes) {
+        case "abril":
+            console.log("mes 4");
+            break;
+        
+        case "maio":
+            console.log("mes 5");
+            break;
+
+        case "fevereiro":
+            console.log("mes 2");
+            break;
+
+        default:
+            console.log("nenhum dos casos acima foi atendidos");
+    }
