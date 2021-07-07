@@ -210,3 +210,23 @@ decremento (--)
         i++;
     } while (i < 10);
 */
+
+/*
+
+    //Funções
+
+    function sayHello(name, lastName) {
+        console.log("Hello" + name + "" + lastName)
+    }
+
+    sayHello("Felipe", "Silva");
+
+
+
+    function sum(a,b) {
+        return a + b
+    }
+
+    console.log(sum(4,5));
+
+*/
